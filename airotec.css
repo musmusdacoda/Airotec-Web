@@ -24,6 +24,7 @@ nav ul {
     font-family: 'Google Sans', Courier New;
     font-weight: bold;
     padding: 16px;
+    width: fit-content;
 }
 nav ul li {
     display: inline;
@@ -37,4 +38,10 @@ nav ul li:last-child {
 nav ul li a {
     text-decoration: none;
     color: #111111;
+}
+img {
+    height: 180px;
+    width: 180px
+    border: 4px solid black;
+    border-radius: 16px;
 }
