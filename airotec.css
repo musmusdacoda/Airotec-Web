@@ -14,7 +14,6 @@ body {
 }
 html {
     background: linear-gradient(to right, #ff0000, #ff7f00, #ffff00, #00ff00, #0000ff, #4b0082, #8b00ff);
-    background-size: 8px 8px;
 }
 nav ul {
     list-style-type: none;
